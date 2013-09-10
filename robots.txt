@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://laurivers.github.io/sitemap.xml 
